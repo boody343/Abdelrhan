@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>hat is me trying to lern html</title>
+  </head>
+  <body>
+waht is <em>markup</em> it is the amount of mouny you can make .<br><br>
+<p>This is a story. Add paragraph tags to make it better.
+
+
+
+<p>Once upon a time there was a baby tiger named Talia. Talia
+   lived in a fearsome jungle in the middle of the fearsome jungle.
+   Talia was the most fearsome of all, though she was only a baby.</p>
+<mark> whay non't you  tell me </mark> <br><br>
+ no <p><sup> I will mot tell you </sup></p>
+how  <sub> no you are going to tell me </sub>
+<p><em>hello<mark>kelly!</mark></em></p>
+
+
+
+<h1>My HTML Notes</h1>
+<p>This page is a collection of my awesome notes about HTML!</p>
+<h2>The Web</h2>
+<p>The Web (or World Wide Web) is a collection of documents and other files.
+  Most of the documents are made using Hypertext Markup Language (HTML).</p>
+<h2>What is HTML?</h2>
+<p>HTML stands for Hypertext Markup Language.
+  It's used to define the structure or layout of a web page.</p>ws
+
+
+
+  <h1>My chemistry notes</h1>
+
+  <p><strong>Molecule name:</strong><em>Sulfur hexafluoride</em></p>
+
+  <p><strong>Molecular formula:</strong> C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+
+  <strong>Note:</strong> This gas has a much higher density than air. Basically the opposite of helium. <mark>Crazy!</mark>
+
+
+
+  <ol>
+  <li>Learn HTML.</li>
+  <li>Learn CSS.</li>
+  <li>Learn Python.</li>
+  <li>Save the world.</li>
+    </ol>
+
+
+
+    <ul>
+      <li>Mammals
+        <ol>
+          <li>Raccoons</li>
+          <li>Gorillas</li>
+        </ol>
+      <li>Reptiles
+    <ol>
+     <li> Lguanas</li>
+      <li>cobras</li>
+        </ol>
+      <li>Birds
+        <ol>
+          <li>Ostriches</li>
+          <li>Ravens</li>
+        </ol>
+    </ul>
+
+
+
+<p>
+    <a href="https://github.com/">GitHub</a>
+</p>
+
+    <img src="https://placebear.com/800/600"alt="Fish">
+
+
+
+
+
+    <p>
+My favorite things:
+</p>
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Bear"target="_blank">Bears</a>
+
+  <li><a href="https://en.wikipedia.org/wiki/Kitten"target="_blank">Kittens</a>
+</ol>
+
+<img src="https://placebear.com/150/150"alt="Bears">
+
+<img src="https://placekitten.com/150/150"alt="Kittens">
+
+
+
+
+   
+   <p><title>My HTML Notes</title></p>
+  </head>
+  <body>
+    <h1>Welcome to My HTML Notes</h1>
+    <p>These are my notes about HTML!</P>
